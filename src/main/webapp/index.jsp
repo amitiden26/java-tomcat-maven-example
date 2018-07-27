@@ -16,7 +16,7 @@ img {
 
   <h1 style="color:blue;text-align:center;">Welcome to Auto Deployment with Jenkins</h1>
   <img src="https://cdn-images-1.medium.com/max/1600/1*FgdvdzDs64rW-1XJkQ-neA.jpeg" alt="Jenkins" class="center" style="width:300px"/>
-  <h2 style="color:red;text-align:center;">You are now with Amit</h2>
+  <h2 style="color:red;text-align:center;">You are now with Piyush</h2>
   <br>
   <br>
   <br>
