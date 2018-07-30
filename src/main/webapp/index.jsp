@@ -23,7 +23,7 @@ img {
 
 <body>
 
-  <h1 style="color:blue;text-align:center;">Auto Deployment with Jenkins</h1>
+  <h1 style="color:blue;text-align:center;">Welcome to Auto Deployment with Jenkins</h1>
   <br>
   <br>
   <!--<img src="https://cdn-images-1.medium.com/max/1600/1*FgdvdzDs64rW-1XJkQ-neA.jpeg" alt="Jenkins" class="center" style="width:300px"/> -->
